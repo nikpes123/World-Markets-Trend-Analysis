@@ -7,7 +7,7 @@
 ## ⚙️ Virtual Environment Setup
 To ensure a proper working environment for stock market analysis, follow these steps to set up your virtual environment and Jupyter kernel.
 
-### **1️⃣ Create and Activate Virtual Environment (Recommended)*
+### *1️⃣ Create and Activate Virtual Environment (Recommended)*
 (Optional, but highly recommended to avoid dependency conflicts.)
 ```bash*
 python -m venv .venv
